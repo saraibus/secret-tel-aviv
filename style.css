@@ -3,6 +3,9 @@ body {
     background-color: #ddd;
     height: 7000px;
   }
+  .change{
+    color:red;
+  }
 
   nav {
     background: #333333;
